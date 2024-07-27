@@ -1,8 +1,10 @@
 Inventory Management System
+
 Overview
 This Inventory Management System is built using Tkinter for the graphical user interface, SQLite3 for database management, and Python for backend logic. The system supports two types of users: Admin and Employee, each with distinct roles and access levels.
 
-User Roles
+User Roles:
+
 Admin
 The Admin user has comprehensive access to all aspects of the inventory management system:
 
